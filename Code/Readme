@@ -48,3 +48,5 @@ Ensure you have the required dependencies installed before running the notebooks
 
 ```bash
 pip install pandas numpy requests scikit-learn imbalanced-learn tensorflow xgboost openpyxl
+
+Note: You will need to provide your own Google API key in rating_gathering.ipynb for the data extraction steps to function correctly.
